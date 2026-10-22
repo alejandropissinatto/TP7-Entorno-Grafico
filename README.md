@@ -22,7 +22,7 @@ El Arduino es el dueño del estado de los LEDs; la pantalla siempre refleja lo q
 | LED L1 (+220 Ω) | D8 – GND |
 | LED L2 (+220 Ω) | D9 – GND |
 
-   ![Esquemático](esquematico/esquematico.png)
+![Esquemático](esquematico/esquematico.png)
 
 ## Uso
 1. Cargar `TP7_Arduino/TP7_Arduino.ino` en la placa.
